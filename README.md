@@ -10,8 +10,9 @@ User may change image and grid size by modifing defines in `pattern.h` file.
 
 ## Example result:
 
-(Pattern code 42771)
 ![example](example.png)
+
+*(Pattern code 42771)*
 
 ## Usage
 
